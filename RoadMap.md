@@ -1,3 +1,4 @@
+![C++Roadmap](./C++Roadmap.png)
 # C++ Course Roadmap
 
 ## Module 1: Introduction to Programming
